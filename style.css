@@ -6,14 +6,14 @@ ul.b {
     color: Black;
   }
   body {
-    background: url(https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg);
+    background: url(https://www.webiotic.com/wp-content/uploads/Best-Programming-Language-Header-Webiotic.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
   }
   h1.C {
       color: black;
       font-size: 50px;
-      text-align:center;
+      
        }
 h2.P{
     color: rgb(0, 128, 6);
@@ -36,4 +36,7 @@ p.text{
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
+}
+h3.b{
+  color: black;
 }
